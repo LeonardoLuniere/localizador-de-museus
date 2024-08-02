@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/InvalidCoordinateException.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/MuseumNotFoundException.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/MuseumController.java">
+<error line="28" column="3" severity="warning" message="&apos;CTOR_DEF&apos; deve ser separado da linha anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumCreationDto.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumDto.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/ModelDtoConverter.java">
+<error line="63" column="3" severity="warning" message="Todos os métodos sobrecarregados devem ser colocados juntos. A colocação de métodos não sobrecarregados entre métodos sobrecarregados com o mesmo tipo é uma violação. O método sobrecarregado anterior foi encontrado na linha &apos; 15 &apos;." source="com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck"/>
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/MuseumLoader.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumServiceInterface.java">
+</file>
+<file name="/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumService.java">
+<error line="24" column="3" severity="warning" message="&apos;CTOR_DEF&apos; deve ser separado da linha anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+<error line="28" column="3" severity="warning" message="&apos;METHOD_DEF&apos; deve ser separado da linha anterior." source="com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck"/>
+</file>
+</checkstyle>

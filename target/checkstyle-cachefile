@@ -1,0 +1,18 @@
+#Sat Nov 18 11:33:24 BRT 2023
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Coordinate.java=1700306219779
+configuration*?=DA501A7EE20E05DF403C092AE2C62BAF0803E429
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/CoordinateUtil.java=1700302789712
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/util/MuseumLoader.java=1700315033992
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/InvalidCoordinateException.java=1700317640253
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/MuseumServiceInterface.java=1700316483018
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumCreationDto.java=1700314867500
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/model/Museum.java=1700313895417
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/controller/CollectionTypeController.java=1700305154398
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/MuseumFinderApplication.java=1700302789712
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/CollectionTypeCount.java=1700302789712
+module-resource*?\:checkstyle-xpath-suppressions.xml=A025B15F800BBCF1B18A1B3B1A0879B102559047
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/service/CollectionTypeService.java=1700305154454
+module-resource*?\:checkstyle-suppressions.xml=C1278AD5C7F66B8EF1FDA445707B68FACA3654D8
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/dto/MuseumDto.java=1700315070456
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/exception/MuseumNotFoundException.java=1700317655685
+/home/Leonardo/Documentos/Programador/java-029-java-projeto-localizador-de-museus/src/main/java/com/betrybe/museumfinder/database/MuseumFakeDatabase.java=1700310705215
